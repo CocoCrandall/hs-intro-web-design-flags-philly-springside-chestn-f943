@@ -111,15 +111,87 @@ h3 {
   background-color: green;
 }
 
-
 /* Chad */
+#chad div {
+  height: 300px;
+  width: 250px;
+}
+
+#box14 {
+  background-color: blue;
+  float: left
+}
+#box15 {
+  background-color: yellow;
+float: left
+}
+#box16 {
+  background-color: red;
+  float: left
+}
 
 /* France */
+#france div {
+  height: 300px;
+  width: 250px;
+}
 
+#box17 {
+  background-color: blue;
+  margin-right: 250px;
+  float: left;
+}
+#box18 {
+  background-color: red;
+float: left
+}
 /* Benin */
-
+#benin
+#box19 {
+    height:300px;
+  width: 250px;
+  background-color:green;
+  float: left;
+}
+#box20{
+  height: 150px;
+  width: 700px;
+  background-color:yellow;
+}
+#box21{
+    height: 150px;
+  width: 700px;
+  background-color: red;
+}
 /* UAE */
+#UAE
 
+#uae1 {
+  height:300px;
+  width: 75px;
+  float: left;
+  background-color: red;
+}
+  
+ #ua1 {
+  height:100px;
+  width: 250px;
+  float: left;
+ 
+ }
+
+}
+#box23{
+  height:100px;
+  width: 250px;
+  background-color:green;
+  margin-bottom: 100px;
+}
+#box24{
+  height: 100px;
+  width: 250px;
+  background-color: black;
+}
 /* Denmark */
 
 /* Norway */

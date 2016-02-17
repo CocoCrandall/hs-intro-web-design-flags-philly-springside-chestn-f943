@@ -164,35 +164,36 @@ float: left
   background-color: red;
 }
 /* UAE */
-#UAE
 
-#uae1 {
+
+
+#uae1  {
   height:300px;
   width: 75px;
   float: left;
   background-color: red;
 }
 
- #ua1 div{
-  height:100px;
+#ua div {
+  height: 100px;
   width: 250px;
   float: left;
 }
-#box23{
-  height:100px;
-  width: 250px;
-  background-color:green;
+
+#uae2  {
+  background-color: green;
 }
-#box24{
-  height:100px;
-  width: 250px;
-  background-color:white;
+
+#uae3  {
+  background-color: white;
 }
-#box25{
-  height: 100px;
-  width: 250px;
+
+#uae4  {
+  margin-top: 100px;
   background-color: black;
 }
+
+
 /* Denmark */
 
 /* Norway */

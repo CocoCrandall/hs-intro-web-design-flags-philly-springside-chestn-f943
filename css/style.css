@@ -198,13 +198,12 @@ float: left
 #Denmark div div {
   background-color: red
 }
+#Dright {
+  float: left;
+}
 #Dleft {
   float: left;
   margin-right: 20px;
-}
-
-#Dright {
-  float: left;
 }
 
 #D1{
@@ -232,6 +231,9 @@ float: left
   float: left;
   margin-right: 20px;
 }
+#Nleft div{
+  margin-right: 20px;
+}
 
 #Nright {
   float: left;
@@ -244,8 +246,8 @@ float: left
   background-color:red;
 }
 #N2{
-  height: 20px;
-  width: 150px;
+  height: 30px;
+  width: 160px;
   background-color: blue;
 }
 #N3{
@@ -262,7 +264,7 @@ float: left
   background-color: red
 }
 #N5{
-  height: 20px;
+  height: 30px;
   width: 300px;
   background-color: blue
 }
@@ -272,7 +274,15 @@ float: left
   margin-top: 10px;
   background-color: red;
 }
-
+#N7 {
+  height:299px;
+  width: 30px;
+  background-color: blue;
+  margin-left: 160px;
+}
+#all {
+  float: left;
+}
 /* Greece */
 
 

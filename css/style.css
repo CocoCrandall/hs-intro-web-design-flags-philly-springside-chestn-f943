@@ -200,10 +200,10 @@ float: left
 }
 #Dright {
   float: left;
-  margin-right: 30px
 }
 #Dleft {
   float: left;
+  margin-right: 20px;
 }
 
 #D1{
@@ -283,7 +283,104 @@ float: left
   float: left;
 }
 /* Greece */
+#Greece {
+
+}
+#Gright {
+  float: right;
+  margin-right: 180px;
+}
+#Gleft {
+  float: left;
+  margin-right: 20px;
+}
+#Gleft1 {
+  float: left;
+  margin-right: 20px;
+
+}
+#Gleft2 {
+  float: left;
+
+}
+#Gleft3{
+  float:left;
+}
+#G1{
+  height: 60px;
+  width: 85px;
+  margin-bottom:30px ;
+  background-color: blue;
 
 
 
+}
+#G2{
+  height:60px;
+  width:85px;
+  background-color: blue;
+
+
+}
+
+#G3{
+  width: 85px;
+  height: 60px;
+  margin-bottom:30px ;
+  background-color: blue;
+
+
+}
+#G4{
+  width:85px;
+  height: 60px;
+  background-color: blue;
+
+}
+#G5{
+  width: 300px;
+  height: 30px;
+  margin-bottom: 30px;
+  background-color: blue;
+}
+#G6{
+  width: 300px;
+  height: 30px;
+  margin-bottom: 30px;
+  background-color: blue;
+}
+#G7{
+  width: 300px;
+  height: 30px;
+  margin-bottom: 30px;
+  background-color: blue;
+}
+#G8{
+  width: 300px;
+  height: 30px;
+  margin-bottom: 30px;
+  background-color: blue;
+}
+#G9{
+  width: 300px;
+  height: 30px;
+  background-color: blue;
+}
+#GR1{
+   width: 300px;
+  height: 30px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  background-color: blue;
+}
+#GR2{
+   width: 300px;
+  height: 30px;
+  margin-bottom: 30px;
+  background-color: blue;
+}
+
+#G{
+  margin-bottom:30px;
+}
 

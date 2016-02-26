@@ -200,10 +200,10 @@ float: left
 }
 #Dright {
   float: left;
+  margin-right: 30px
 }
 #Dleft {
   float: left;
-  margin-right: 20px;
 }
 
 #D1{
@@ -229,9 +229,6 @@ float: left
 #Norway
 #Nleft {
   float: left;
-  margin-right: 20px;
-}
-#Nleft div{
   margin-right: 20px;
 }
 
@@ -261,11 +258,12 @@ float: left
   height: 125px;
   width: 300px;
   margin-bottom: 10px;
-  background-color: red
+  background-color: red;
+  margin-left: 10px;
 }
 #N5{
   height: 30px;
-  width: 300px;
+  width: 310px;
   background-color: blue
 }
 #N6 {
@@ -273,6 +271,7 @@ float: left
   width:300px;
   margin-top: 10px;
   background-color: red;
+  margin-left: 10px;
 }
 #N7 {
   height:299px;

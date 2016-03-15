@@ -286,21 +286,20 @@ float: left
 
 }
 #Gright {
-  float: right;
-  margin-right: 180px;
+float:left;
+
 }
 #Gleft {
   float: left;
-  margin-right: 20px;
+
 }
 #Gleft1 {
   float: left;
   margin-right: 20px;
-
 }
 #Gleft2 {
   float: left;
-
+  margin-right: 20px;
 }
 #Gleft3{
   float:left;
